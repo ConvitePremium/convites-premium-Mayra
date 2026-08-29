@@ -80,7 +80,7 @@ window.CONFIG = {
   botoesVoltar: {
     presentes: { mostrarTexto:false, posicao: {"left":24.55623939197284,"top":92.75432764008434,"width":50.670926517571885,"height":4.964325074711438} },
     dresscode: { mostrarTexto:false, posicao: {"left":24.556223791932908,"top":91.94879495515295,"width":52.306731105231634,"height":5.654778683033078} },
-    manual: { mostrarTexto:false, posicao: {"left":23.942799021565495,"top":91.14326172150217,"width":52.30671550519169,"height":5.309550781433478} }
+    manual: { mostrarTexto:false, posicao: {"left":24.147268745007988,"top":90.33773287760651,"width":52.30671550519169,"height":5.309550781433478} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
@@ -89,11 +89,11 @@ window.CONFIG = {
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:16.657347555711592, top:65.41425042073875, width:17.189885240654952, height:9.032683061348495 },
-        map: { left:41.44873941385788, top:65.52930130568639, width:17.04326712567886, height:8.868221767432466 },
-        gift: { left:65.02934241401772, top:65.40342014163649, width:17.317894493809902, height:9.218853730708798 },
-        dress: { left:28.224214992891525, top:78.63702175046419, width:17.522364217252395, height:8.873634608619435 },
-        manual: { left:55.01016996493626, top:78.63701736070905, width:16.908939446884983, height:8.988698869805651 }
+        confirm: { left:18.2931365433314, top:69.32679526098985, width:17.189885240654952, height:9.032683061348495 },
+        map: { left:41.244269690415386, top:69.32677310524105, width:17.04326712567886, height:8.868221767432466 },
+        gift: { left:63.39355342639791, top:68.97074147004311, width:17.317894493809902, height:9.218853730708798 },
+        dress: { left:29.24657921014392, top:81.05359072313067, width:17.522364217252395, height:8.873634608619435 },
+        manual: { left:53.16991125387396, top:81.16866815358223, width:16.908939446884983, height:8.988698869805651 }
   },
 
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
